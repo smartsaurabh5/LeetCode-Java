@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0189-rotate-array) |
 ## Simulation

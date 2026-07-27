@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
@@ -41,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

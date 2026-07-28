@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0018-4sum) |
 | [0074-search-a-2d-matrix](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0018-4sum) |
 | [0189-rotate-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search

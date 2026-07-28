@@ -1,59 +1,47 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
+      int n = nums.length;
+      Arrays.sort(nums);
+      List<List<Integer>> list = new ArrayList<>();
 
-        List<List<Integer>> ans = new ArrayList<>();
+      for(int i =0;i<n;i++){
+        if(i>0 && nums[i]==nums[i-1])continue;//taki i same na ho 
+    
+        for(int j =i+1;j<n;j++){
+        if(j>i+1 && nums[j]==nums[j-1])continue;//taki j same na ho;
 
-        Arrays.sort(nums);
-        int n = nums.length;
+        int k =j+1; //k aaur l move karega humesh;
+        int l=n-1;
 
-        for (int i = 0; i < n - 3; i++) {
+         while(k<l){
 
-            // Skip duplicate first element
-            if (i > 0 && nums[i] == nums[i - 1])
-                continue;
+             long sum = (long)nums[i]+nums[j]+nums[k]+nums[l];//(long) isliye lga h ki dhyana dena.. jo calculation ho rhi vo vo integer ki ho rhi hai toh answer bhi integer me hoga simple to aagr ussi samay soverflow ho gya toh game khtm to long lga diya phle toh sari value long bn jaiyegi jisse overflow ka risk ni hoga
 
-            for (int j = i + 1; j < n - 2; j++) {
+            if(sum==target){
+              list.add(Arrays.asList(nums[i],nums[j],nums[k],nums[l]));//list me add krne ke liye Arrays.asList use karenge dhyan rkhna
 
-                // Skip duplicate second element
-                if (j > i + 1 && nums[j] == nums[j - 1])
-                    continue;
+              k++; //ek bdha denge k ko lekin ek bdhane ke mtlb h next value chahiye niche while loop lga h usssi ke liye ki next value mile ;
+              l--;//ek ghta denge taki l ki next value mile same nhi niche while isiliye likha haiii;
 
-                int left = j + 1;
-                int right = n - 1;
+              while(k<l && nums[k]==nums[k-1]){
+                k++;
+                }
 
-                while (left < right) {
-
-                    long sum = (long) nums[i] + nums[j] + nums[left] + nums[right];
-
-                    if (sum == target) {
-
-                        ans.add(Arrays.asList(
-                                nums[i],
-                                nums[j],
-                                nums[left],
-                                nums[right]
-                        ));
-
-                        left++;
-                        right--;
-
-                        // Skip duplicate left
-                        while (left < right && nums[left] == nums[left - 1])
-                            left++;
-
-                        // Skip duplicate right
-                        while (left < right && nums[right] == nums[right + 1])
-                            right--;
-
-                    } else if (sum < target) {
-                        left++;
-                    } else {
-                        right--;
-                    }
+              while(k<l && nums[l]==nums[l+1]){
+                l--;
                 }
             }
-        }
 
-        return ans;
+            else if(sum<target){ //sum agr target se km haii mtlb k ki value bdhayenge kyuki array sorted h ...l ko ghtaiyenge to value aaur km hogi
+                k++;
+            }
+
+            else{
+                l--;
+            }
+         }
+        }
+      }
+      return list;///retunr kr diya addd kr ke so simple;
     }
 }

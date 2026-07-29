@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0283-move-zeroes) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |

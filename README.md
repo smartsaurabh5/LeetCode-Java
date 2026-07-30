@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

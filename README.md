@@ -82,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0796-rotate-string) |

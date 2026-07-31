@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0344-reverse-string) |
 ## Tree
 |  |
 | ------- |

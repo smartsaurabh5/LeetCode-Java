@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1406-stone-game-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,12 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |

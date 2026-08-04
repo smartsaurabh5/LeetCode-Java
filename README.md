@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1406-stone-game-iii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1406-stone-game-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3731-find-missing-elements) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0344-reverse-string) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0242-valid-anagram) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3731-find-missing-elements](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0242-valid-anagram) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3731-find-missing-elements](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3731-find-missing-elements) |
 ## String
 |  |

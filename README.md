@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [3310-remove-methods-from-project](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -148,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1406-stone-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->

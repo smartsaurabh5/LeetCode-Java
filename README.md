@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0125-valid-palindrome) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0010-regular-expression-matching) |
 | [0877-stone-game](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1406-stone-game-iii) |
 ## Game Theory

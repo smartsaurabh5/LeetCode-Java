@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1768-merge-strings-alternately) |
 | [2129-capitalize-the-title](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2129-capitalize-the-title) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Tree
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0010-regular-expression-matching) |
 | [0877-stone-game](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3345-smallest-divisible-digit-product-i) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->

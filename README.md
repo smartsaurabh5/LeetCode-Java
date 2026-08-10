@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
@@ -156,12 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0010-regular-expression-matching) |
 | [0877-stone-game](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1510-stone-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -183,4 +186,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

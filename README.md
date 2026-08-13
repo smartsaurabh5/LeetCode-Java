@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1406-stone-game-iii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1406-stone-game-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3731-find-missing-elements](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1768-merge-strings-alternately) |
 | [2129-capitalize-the-title](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2129-capitalize-the-title) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Tree
 |  |
@@ -260,4 +262,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->

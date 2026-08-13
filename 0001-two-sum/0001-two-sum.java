@@ -5,7 +5,7 @@ class Solution {
         int n = nums[j];
         int moreneeded=target-n;
         if(number.containsKey(moreneeded)){
-            return new int[]{j,number.get(moreneeded)};
+            return new int[]{j,number.get(moreneeded)}
         }
         else{
             number.put(nums[j],j);

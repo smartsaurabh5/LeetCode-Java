@@ -2,8 +2,8 @@ class Solution {
     public int[] twoSum(int[] nums, int target) {
     HashMap<Integer,Integer> number =new HashMap<>();
     for(int j =0;j<nums.length;j++){
-        int n = nums[j];
-        int moreneeded=target-n;
+        int k = nums[j];
+        int moreneeded=target-k;
         if(number.containsKey(moreneeded)){
             return new int[]{j,number.get(moreneeded)}
         }

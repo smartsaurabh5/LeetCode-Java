@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1406-stone-game-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
 | ------- |

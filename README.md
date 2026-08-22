@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0231-power-of-two) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0125-valid-palindrome) |

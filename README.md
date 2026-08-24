@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0877-stone-game) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1510-stone-game-iv) |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

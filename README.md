@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0136-single-number) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0051-n-queens) |
 ## Minimax
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |

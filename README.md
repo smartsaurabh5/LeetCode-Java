@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0037-sudoku-solver) |
 | [0057-insert-interval](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0136-single-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
 ## Math
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0242-valid-anagram) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0037-sudoku-solver) |
 ## Minimax
 |  |
 | ------- |
@@ -298,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0070-climbing-stairs) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

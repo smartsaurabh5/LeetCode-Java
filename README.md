@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0242-valid-anagram) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0131-palindrome-partitioning) |
 | [0877-stone-game](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1510-stone-game-iv) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0131-palindrome-partitioning) |
 ## Minimax
 |  |
 | ------- |

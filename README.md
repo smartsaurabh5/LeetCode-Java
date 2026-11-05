@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0189-rotate-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0198-house-robber) |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0037-sudoku-solver) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

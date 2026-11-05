@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0074-search-a-2d-matrix) |
+| [0120-triangle](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0189-rotate-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0213-house-robber-ii) |

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1406-stone-game-iii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1406-stone-game-iii) |
+| [1425-constrained-subsequence-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1425-constrained-subsequence-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1406-stone-game-iii) |
+| [1425-constrained-subsequence-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1425-constrained-subsequence-sum) |
 | [1510-stone-game-iv](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
+| [1425-constrained-subsequence-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1425-constrained-subsequence-sum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1425-constrained-subsequence-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1425-constrained-subsequence-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -340,4 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0062-unique-paths) |
+## Queue
+|  |
+| ------- |
+| [1425-constrained-subsequence-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1425-constrained-subsequence-sum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1425-constrained-subsequence-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1425-constrained-subsequence-sum) |
 <!---LeetCode Topics End-->

@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1406-stone-game-iii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1425-constrained-subsequence-sum) |
+| [1755-closest-subsequence-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1755-closest-subsequence-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0344-reverse-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1755-closest-subsequence-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1755-closest-subsequence-sum) |
 | [1768-merge-strings-alternately](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
+| [1755-closest-subsequence-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1755-closest-subsequence-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/0242-valid-anagram) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1755-closest-subsequence-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1755-closest-subsequence-sum) |
 | [3731-find-missing-elements](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1425-constrained-subsequence-sum) |
 | [1510-stone-game-iv](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1510-stone-game-iv) |
+| [1755-closest-subsequence-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1755-closest-subsequence-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -352,4 +357,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1425-constrained-subsequence-sum) |
+## Meet in the Middle
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1755-closest-subsequence-sum) |
+## Bitmask
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/smartsaurabh5/LeetCode-Java/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
